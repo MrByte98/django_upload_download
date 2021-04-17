@@ -1,5 +1,6 @@
 # django_upload_download
 Upload and Downlaod File in django(version 3 test and worked)
+You can see tutorial in Youtube video or read documents.
 https://youtu.be/MpDZ34mEJ5Y
 
 ###### in terminal
